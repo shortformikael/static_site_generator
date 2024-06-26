@@ -1,1 +1,3 @@
-# static_site_generator
+# Static Site Generator
+
+* Welcome to the project!
